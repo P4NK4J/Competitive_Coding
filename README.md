@@ -1,2 +1,2 @@
 # codechef
-Track of my programming with codechef problem
+Track of my programming with competitive coding problems
